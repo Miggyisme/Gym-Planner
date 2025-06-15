@@ -14,7 +14,6 @@ Gym-Planner aims to:
 - Automatically detect the muscle group based on the exercise name;
 - Calculate total training volume per muscle group (sets × reps × weight);
 - Display total volume per muscle group on the main screen;
-- Export simple reports in `.txt` or `.csv` format;
 - Generate evolution charts over time.
 
 ## Notes
